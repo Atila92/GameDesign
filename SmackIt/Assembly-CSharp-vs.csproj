@@ -51,6 +51,7 @@
      <Compile Include="Assets\Scripts\Collision_point.cs" />
      <Compile Include="Assets\Scripts\FlagController.cs" />
      <Compile Include="Assets\Scripts\ItemPickup.cs" />
+     <Compile Include="Assets\Scripts\PlayerMobility.cs" />
      <Compile Include="Assets\Scripts\SpawnRandom.cs" />
      <Compile Include="Assets\Scripts\movment.cs" />
      <Compile Include="Assets\Scripts\movment2.cs" />
