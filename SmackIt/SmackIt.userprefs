@@ -1,8 +1,11 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\PlayerControls.js">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\SpawnRandom.cs">
     <Files>
-      <File FileName="Assets\PlayerControls.js" Line="12" Column="27" />
+      <File FileName="Assets\Scripts\FlagController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Collision_point.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ItemPickup.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\SpawnRandom.cs" Line="11" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
